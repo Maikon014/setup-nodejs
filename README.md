@@ -1,4 +1,4 @@
 # setup nodejs
 
-Projeto de demonstação de inicialização e configuração com node.js
+Projeto de demonstração de inicialização e configuração com node.js
 
